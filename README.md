@@ -1,18 +1,9 @@
 
-# Convolutional Neural Networks - Codealong
+# Convolutional Neural Networks 
 
 ## Introduction
 
 In this codealong, we will reinvestigate our previous Santa image classification example. To do this, we will review loading a dataset from a nested directory structure and building a baseline model. From there, we'll build a CNN and demonstrate its improved performance on image recognition tasks. It is recommended you run the cells in order to further explore variables and investigate the code snippets themselves. However, please note that some cells (particularly training cells later on) may take several minutes to run. (On a Macbook pro the entire notebook took ~15 minutes to run.)
-
-## Objectives  
-
-You will be able to:
-
-- Load images from a hierarchical file structure using an image datagenerator 
-- Explain why one might augment image data when training a neural network 
-- Apply data augmentation to image files before training a neural network 
-- Build a CNN using Keras 
 
 ## Properly store your images 
 
